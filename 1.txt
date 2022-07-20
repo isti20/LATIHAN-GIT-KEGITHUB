@@ -1,7 +1,4 @@
 file 1.txt
 mengedit file 1.txt di github
-<<<<<<< HEAD
 tambahan file 1.txt di vscode
-=======
 tambahan file 1.txt di github
->>>>>>> a15b4c9a88b4f61bd7200ab90a3ba558f9b10528
