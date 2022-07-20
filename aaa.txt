@@ -1,0 +1,1 @@
+ini file aaa.txt dari cabang3 dibuat di git
